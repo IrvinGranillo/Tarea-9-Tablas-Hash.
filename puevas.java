@@ -3,7 +3,7 @@ package tablashash;
 public class puevas {
 
     public static void main(String[] args) {
-        TablasHash numeros = new TablasHash(51);
+        TablasHash numeros = new TablasHash(53);
         numeros.Add("HOLA MUNDO ");
         numeros.Add("HOLA MUNDO ");
         numeros.Add("JOse ");
@@ -17,7 +17,7 @@ public class puevas {
         numeros.Add("Francisco");
         numeros.Add("Javier");
 
-        numeros.Remove(97);
+        numeros.Remove(24);
         System.out.println("/////");
         System.out.println(numeros);
 
