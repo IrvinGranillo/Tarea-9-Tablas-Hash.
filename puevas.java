@@ -15,7 +15,7 @@ public class puevas {
         numeros.Add("Carlengues");
         numeros.Add("cacahuetes ");
         numeros.Add("Francisco");
-        numeros.Add("guey");
+        numeros.Add("Javier");
 
         numeros.Remove(97);
         System.out.println("/////");
